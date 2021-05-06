@@ -1,0 +1,30 @@
+{
+  "name": "boodir",
+  "version": "1.0.0",
+  "description": "Book directory for personal use",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hb195/boodir.git"
+  },
+  "keywords": [
+    "books",
+    "directory",
+    "authors",
+    "reading",
+    "read",
+    "reader",
+    "writer",
+    "blogger"
+  ],
+  "author": "himanshu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hb195/boodir/issues"
+  },
+  "homepage": "https://github.com/hb195/boodir#readme"
+}
